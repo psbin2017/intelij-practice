@@ -22,6 +22,7 @@ public class FocusPractice {
 
     public void moveError() {
         // F2
-        return "";
+        // 주석 해제 후 테스트
+        // return "";
     }
 }
